@@ -23,3 +23,11 @@
 * [Modded OS](installations/modded-os/README.md)
   * [Untitled](installations/modded-os/untitled.md)
 
+## Contribution
+
+* [Untitled](contribution/untitled.md)
+
+## Bug-Report
+
+* [Untitled](bug-report/untitled.md)
+
