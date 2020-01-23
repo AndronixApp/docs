@@ -1,4 +1,25 @@
-# Home
+# Development for Andronix
 
-Welcome to the package wiki for Andronix 😊! Please read the wiki thoroughly to make the process easier and quicker. If you feel like the wiki is incomplete or lacks something essential, pull requests are always welcome.
+## 
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
+
 
