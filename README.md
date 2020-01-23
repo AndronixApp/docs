@@ -4,23 +4,13 @@ description: This page gives you a basic idea of how things work here.
 
 # Welcome to the Andronix App Docs
 
-## How it all works?
+Hey! 😊, let's introduce to the basics of the documentations around here. This is the doc-hub for Andronix, from development to installations, you can find almost everything here.
 
-Andronix is simple inside the hood \(well not really, but most of it is simple to understand\). Andronix uses **PRoot** to run your favourite Linux distribution on your Android devices.
+### Introduction Docs 💌
 
-#### What exactly is PRoot?
+Here you can find all the information necessary to understand Andronix better. Diving deep in **PRoot**, **app structure** and **Shell scripts** that actually make you understand about what's actually happening.
 
-As stated in the official website of PRoot
 
-> PRoot is a user-space implementation of **chroot, mount --bind, and binfmt\_misc**. This means that users don't need any privileges or setup to do things like using an arbitrary directory as the new root file system, making files accessible somewhere else in the file system hierarchy, or executing programs built for another CPU architecture transparently through QEMU user-mode.
-
-or in easier words, the benefits of enabling PRoot include running Linux operating systems in a Termux [chroot](https://en.m.wikipedia.org/wiki/Chroot) on an Android smartphone and tablet, and Chromebook.
-
-We use **Termux** to provide the command line and the packages that are especially compiled for Termux implemented inside Andronix. 
-
-{% hint style="info" %}
-If you want to know that how things are compiled for the app, visit the DEV section.
-{% endhint %}
 
 
 

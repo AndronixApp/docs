@@ -16,3 +16,10 @@
     * [3. Building-packages](development/untitled/termux-packages/3.-building-packages.md)
     * [4. Andronix-maintainers](development/untitled/termux-packages/4.-andronix-maintainers.md)
 
+## Installations
+
+* [Non-Modded OS](installations/non-modded-os/README.md)
+  * [Untitled](installations/non-modded-os/untitled.md)
+* [Modded OS](installations/modded-os/README.md)
+  * [Untitled](installations/modded-os/untitled.md)
+
