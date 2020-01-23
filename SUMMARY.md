@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Andronix App Docs](README.md)
+* [Welcome 😄](README.md)
 
 ## Introduction
 
