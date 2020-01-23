@@ -1,10 +1,6 @@
----
-description: This page gives you a basic idea of how things work here.
----
+# Where to begin?✅
 
-# Welcome to the Andronix App Docs
-
-## How it all works?
+### How it all works?
 
 Andronix is simple inside the hood \(well not really, but most of it is simple to understand\). Andronix uses **PRoot** to run your favourite Linux distribution on your Android devices.
 
@@ -16,11 +12,9 @@ As stated in the official website of PRoot
 
 or in easier words, the benefits of enabling PRoot include running Linux operating systems in a Termux [chroot](https://en.m.wikipedia.org/wiki/Chroot) on an Android smartphone and tablet, and Chromebook.
 
-We use **Termux** to provide the command line and the packages that are especially compiled for Termux implemented inside Andronix. 
+We use **Termux** to provide the command line and the packages that are especially compiled for Termux implemented inside Andronix.
 
 {% hint style="info" %}
 If you want to know that how things are compiled for the app, visit the DEV section.
 {% endhint %}
-
-
 

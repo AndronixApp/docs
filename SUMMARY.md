@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Where to begin? ✅](README.md)
+* [Welcome to the Andronix App Docs](README.md)
 
 ## Introduction
+
+* [Where to begin?✅](introduction/where-to-begin.md)
 
 ## Development
 
