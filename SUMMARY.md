@@ -31,3 +31,7 @@
 
 * [Untitled](bug-report/untitled.md)
 
+## Hardware
+
+* [Sound 🎵](hardware/sound.md)
+
