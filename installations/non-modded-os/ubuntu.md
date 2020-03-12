@@ -4,6 +4,8 @@ description: This tutorial will guide you through the installation of Ubuntu 18 
 
 # Ubuntu
 
+![](../../.gitbook/assets/ubuntu_banner.png)
+
 ## Essential Information
 
 Ubuntu provided by Andronix is open source including all the scripts needed for installing it. You can take a look at it [here](https://github.com/AndronixApp/AndronixOrigin).
