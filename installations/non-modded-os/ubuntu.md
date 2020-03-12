@@ -59,6 +59,6 @@ Press Enter and wait till the installation completes.
 Type **./start-ubuntu19.sh** and press enter.
 
 {% hint style="danger" %}
-is only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
+This only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
 {% endhint %}
 
