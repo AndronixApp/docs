@@ -32,7 +32,11 @@ Tap & hold anywhere on the screen and press **Paste**.
 
 Press Enter and wait till the installation completes. 
 
-Type **./start-ubuntu18.sh** and press enter.
+Type **./start-ubuntu.sh** and press enter.
+
+Now if you see `root@localhost` in Termux then you have successfull started Ubuntu
+
+
 
 {% hint style="danger" %}
 This only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
