@@ -30,6 +30,9 @@ The size mentioned above is not the size after installing Ubuntu but it's just t
 ![](../../.gitbook/assets/ubuntu.png)
 
 * Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+
+![](../../.gitbook/assets/ubuntu_inst.png)
+
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
 ```text

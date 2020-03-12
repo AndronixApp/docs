@@ -1,6 +1,6 @@
 # Arch Linux
 
-
+![](../../.gitbook/assets/arch_banner.png)
 
 ## Essential Information
 
@@ -14,33 +14,34 @@ The size mentioned above is not the size after installing Arch Linux but it's ju
 
 ## How to Install?
 
-Open the[ Andronix App](https://andronix.app/) and click on the Arch Linux card.
+* Open the[ Andronix App](https://andronix.app/) and click on the Arch card.
+* Click the **Install** button.
 
-Select the version you want to install, namely 18.04 or 19.04. More info on that [here](https://itsfoss.com/ubuntu-19-04-release-features/).
+![](../../.gitbook/assets/arch.png)
 
-Click the **Install** button.
+* Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
 
-Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+![](../../.gitbook/assets/arch_inst.png)
 
-Use the command below to update your termux packages so that you're running the updated versions of the required packages.
+* Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
 ```text
 pkg update
 ```
 
-Tap & hold anywhere on the screen and press **Paste**.
+![](../../.gitbook/assets/termux-1.png)
 
-Press **Enter** and wait till the installation completes. 
-
-Type the following command to start the distro ****and press enter.
+* Tap & hold anywhere on the screen and press **Paste**.
+* Press **Enter** and wait till the installation completes. 
+* Type the following command to start the distro ****and press enter.
 
 ```text
 ./start-arch.sh
 ```
 
-Now if you see `root@localhost` in Termux then you have successfully started Arch Linux.
+* Now if you see `root@localhost` in Termux then you have successfully started Arch.
 
 {% hint style="danger" %}
-This only includes the bare-bone Arch Linux system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
+This only includes the bare-bone Arch system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
 {% endhint %}
 

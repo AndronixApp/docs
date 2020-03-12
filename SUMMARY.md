@@ -19,13 +19,13 @@
 ## Installations
 
 * [Un-Modded OS](installations/non-modded-os/README.md)
-  * [Alpine](installations/non-modded-os/alpine.md)
-  * [Kali Security OS](installations/non-modded-os/kali-security-os.md)
-  * [Fedora](installations/non-modded-os/fedora.md)
-  * [Arch Linux](installations/non-modded-os/arch-linux.md)
-  * [Manjaro](installations/non-modded-os/manjaro.md)
   * [Ubuntu](installations/non-modded-os/ubuntu.md)
   * [Debian](installations/non-modded-os/untitled.md)
+  * [Kali Security OS](installations/non-modded-os/kali-security-os.md)
+  * [Manjaro](installations/non-modded-os/manjaro.md)
+  * [Arch Linux](installations/non-modded-os/arch-linux.md)
+  * [Fedora](installations/non-modded-os/fedora.md)
+  * [Alpine](installations/non-modded-os/alpine.md)
 * [Modded OS](installations/modded-os/README.md)
   * [Untitled](installations/modded-os/untitled.md)
 * [Desktop Environments](installations/desktop-environments.md)
