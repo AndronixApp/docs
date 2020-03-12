@@ -36,8 +36,6 @@ Type **./start-ubuntu.sh** and press enter.
 
 Now if you see `root@localhost` in Termux then you have successfull started Ubuntu
 
-
-
 {% hint style="danger" %}
 This only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
 {% endhint %}
