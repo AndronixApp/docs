@@ -28,6 +28,8 @@ Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
 
 Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
+
+
 Tap & hold anywhere on the screen and press **Paste**.
 
 Press Enter and wait till the installation completes. 
