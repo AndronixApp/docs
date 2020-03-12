@@ -18,31 +18,33 @@ The size mentioned above is not the size after installing Ubuntu but it's just t
 
 ### Ubuntu 18
 
-Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
+* Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
+* Select the version you want to install, namely 18.04
 
-Select the version you want to install, namely 18.04 or 19.04. More info on that [here](https://itsfoss.com/ubuntu-19-04-release-features/).
+![](../../.gitbook/assets/ubuntu_selection.png)
 
-Click the **Install** button.
+* Click the **Install** button.
 
-Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+![](../../.gitbook/assets/ubuntu.png)
 
-Use the command below to update your termux packages so that you're running the updated versions of the required packages.
+* Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+* Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
 ```text
 pkg update
 ```
 
-Tap & hold anywhere on the screen and press **Paste**.
+![](../../.gitbook/assets/termux-1.png)
 
-Press **Enter** and wait till the installation completes. 
-
-Type the following command to start the distro ****and press enter.
+* Tap & hold anywhere on the screen and press **Paste**.
+* Press **Enter** and wait till the installation completes. 
+* Type the following command to start the distro ****and press enter.
 
 ```text
 ./start-ubuntu.sh
 ```
 
-Now if you see `root@localhost` in Termux then you have successfully started Ubuntu
+* Now if you see `root@localhost` in Termux then you have successfully started Ubuntu
 
 {% hint style="danger" %}
 This only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
@@ -52,33 +54,33 @@ This only includes the bare-bone Ubuntu system that can be used through a CLI \(
 
 ### Ubuntu 19
 
-Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
+* Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
+* Select the version you want to install, namely 19.04. More info on that [here](https://itsfoss.com/ubuntu-19-04-release-features/).
 
-Select the version you want to install, namely 18.04 or 19.04. More info on that [here](https://itsfoss.com/ubuntu-19-04-release-features/).
+![](../../.gitbook/assets/ubuntu_selection.png)
 
-Click the **Install** button.
+* Click the **Install** button.
 
-Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+![](../../.gitbook/assets/ubuntu.png)
 
-Use the command below to update your termux packages so that you're running the updated versions of the required packages.
+* Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+* Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
 ```text
 pkg update
 ```
 
-Tap & hold anywhere on the screen and press **Paste**.
+![](../../.gitbook/assets/termux-1.png)
 
-Press Enter and wait till the installation completes. 
-
-Now if you see `root@localhost` in Termux then you have successful started Ubuntu
-
-Type the following command to start the distro ****and press enter.
+* Tap & hold anywhere on the screen and press **Paste**.
+* Press **Enter** and wait till the installation completes. 
+* Type the following command to start the distro ****and press enter.
 
 ```text
 ./start-ubuntu19.sh
 ```
 
-Now if you see `root@localhost` in Termux then you have successfully started Ubuntu
+* Now if you see `root@localhost` in Termux then you have successfully started Ubuntu
 
 {% hint style="danger" %}
 This only includes the bare-bone Ubuntu system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
