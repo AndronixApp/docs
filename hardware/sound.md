@@ -27,6 +27,7 @@ Check the **volume level** before filing any bug report.
 {% endhint %}
 
 If you are still not able to get the audio output or the audio stops after a certain time then open a new Termux session and type:
+
 ```bash
 pulseaudio --start
 ```

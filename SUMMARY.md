@@ -18,10 +18,12 @@
 
 ## Installations
 
-* [Non-Modded OS](installations/non-modded-os/README.md)
+* [Un-Modded OS](installations/non-modded-os/README.md)
+  * [Ubuntu](installations/non-modded-os/ubuntu.md)
   * [Untitled](installations/non-modded-os/untitled.md)
 * [Modded OS](installations/modded-os/README.md)
   * [Untitled](installations/modded-os/untitled.md)
+* [Desktop Environments](installations/desktop-environments.md)
 
 ## Contribution
 
