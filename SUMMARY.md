@@ -30,10 +30,6 @@
   * [Untitled](installations/modded-os/untitled.md)
 * [Desktop Environments](installations/desktop-environments.md)
 
-## Contribution
-
-* [Untitled](contribution/untitled.md)
-
 ## Bug-Report
 
 * [Untitled](bug-report/untitled.md)
@@ -42,4 +38,8 @@
 
 * [Sound 🎵](hardware/sound.md)
 * [Microphone 🎙](hardware/microphone.md)
+
+## Security
+
+* [Data Protection](security/data-protection.md)
 
