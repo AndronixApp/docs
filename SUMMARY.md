@@ -27,7 +27,7 @@
   * [Fedora](installations/non-modded-os/fedora.md)
   * [Alpine](installations/non-modded-os/alpine.md)
 * [Modded OS](installations/modded-os/README.md)
-  * [Untitled](installations/modded-os/untitled.md)
+  * [Ubuntu XFCE](installations/modded-os/untitled.md)
 * [Desktop Environments](installations/desktop-environments.md)
 
 ## Bug-Report
@@ -42,4 +42,8 @@
 ## Security
 
 * [Data Protection](security/data-protection.md)
+
+## Guides
+
+* [Modded OS](guides/modded-os.md)
 
