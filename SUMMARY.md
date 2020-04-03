@@ -19,7 +19,7 @@
 ## Installations
 
 * [Un-Modded OS](installations/non-modded-os/README.md)
-  * [Ubuntu](installations/non-modded-os/ubuntu.md)
+  * [Ubuntu 19](installations/non-modded-os/ubuntu.md)
   * [Debian](installations/non-modded-os/untitled.md)
   * [Kali Security OS](installations/non-modded-os/kali-security-os.md)
   * [Manjaro](installations/non-modded-os/manjaro.md)
