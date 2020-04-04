@@ -22,4 +22,13 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-* 
+* Linux environments made available by AndroNix cannot be used for hacking/cracking purposes i.e. wifi hacking, packet capture etc. All these things require real hardware which supports all the fetaures like packet capturing which is not available natively in Android phones. 
+
+
+
+* Linux environments cannot mount/read any hardware such as drives or adapters. This is because fusemount cannot be used under PRoot.
+
+
+
+
+
