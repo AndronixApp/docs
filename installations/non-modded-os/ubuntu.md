@@ -12,6 +12,10 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 
 **Download size** - 45 MB
 
+{% hint style="warning" %}
+ above is not the size after installing Manjaro but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
+{% endhint %}
+
 ## How to Install?
 
 ### Ubuntu 18
