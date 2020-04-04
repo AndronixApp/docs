@@ -4,6 +4,7 @@
 
 ## Introduction
 
+* [What AndroNix is not capable of !](introduction/what-andronix-is-not-capable-of.md)
 * [Where to begin?✅](introduction/where-to-begin.md)
 
 ## Development
