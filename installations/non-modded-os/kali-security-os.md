@@ -23,7 +23,11 @@ The size mentioned above is not the size after installing Kali but it's just the
 
 ![](../../.gitbook/assets/kali.png)
 
-* Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Kali without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+
+{% hint style="success" %}
+We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
+{% endhint %}
 
 ![](../../.gitbook/assets/kali_inst.png)
 

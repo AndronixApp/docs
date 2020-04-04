@@ -25,7 +25,7 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 
 [![](../../.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
 
-* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 18 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
