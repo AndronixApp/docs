@@ -39,7 +39,6 @@
 ## Hardware
 
 * [Sound 🎵](hardware/sound.md)
-* [Microphone 🎙](hardware/microphone.md)
 
 ## Security
 
