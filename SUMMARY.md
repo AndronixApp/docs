@@ -32,6 +32,10 @@
 * [Modded OS](installations/modded-os/README.md)
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
 
+## VNC
+
+* [VNC Basics](vnc/vnc-basics.md)
+
 ## Bug-Report
 
 * [Untitled](bug-report/untitled.md)
@@ -47,8 +51,4 @@
 ## Guides
 
 * [Modded OS](guides/modded-os.md)
-
-## VNC
-
-* [VNC Basics](vnc/vnc-basics.md)
 
