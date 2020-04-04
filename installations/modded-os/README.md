@@ -21,5 +21,23 @@ Well, every time to don't want to keep yourself busy with optimizing things and 
 
 You can take a look at our [Modded OS Gallery](https://andronix.app/modded-os-gallery/).
 
-## How do I install these OS?
+## Why should I choose Modded OS?
+
+* Pre-installed themes and customized UI for ready-to-go experience. If you want to use it for your work you will surely have an easy and smooth workflow on Modded OS customized UI.
+
+
+
+* Daily use softwares such as Browser, GIMP, File Managers, Visual Studio Code, Music Player, Sticky Notes, Libre Office, pre-configured repositories and updated system are delivered to you
+
+
+
+* Optimised for performance increase when compared to regular distro
+
+
+
+* Seperate channel for Modded OS users on our Discord server
+
+
+
+
 
