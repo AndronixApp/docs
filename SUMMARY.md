@@ -8,6 +8,7 @@
 
 ## Development
 
+* [Andronix API](development/andronix-api.md)
 * [Development for Andronix](development/untitled/README.md)
   * [Linux Scripts](development/untitled/linux-scripts.md)
   * [Termux Packages](development/untitled/termux-packages/README.md)
