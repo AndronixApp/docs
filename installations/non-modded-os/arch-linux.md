@@ -1,5 +1,9 @@
 # Arch Linux
 
+{% hint style="warning" %}
+Arch is only recommended for users with some experience of any Arch based distributions.
+{% endhint %}
+
 ![](../../.gitbook/assets/arch_banner.png)
 
 ## Essential Information
