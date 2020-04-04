@@ -4,6 +4,10 @@ description: This tutorial will guide you through the installation of Manjaro.
 
 # Manjaro
 
+{% hint style="warning" %}
+Manjaro is only recommended for users with some experience of any Arch based distributions.
+{% endhint %}
+
 ![](../../.gitbook/assets/manjaro_banner.png)
 
 ## Essential Information
