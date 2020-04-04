@@ -23,7 +23,11 @@ The size mentioned above is not the size after installing Debian but it's just t
 
 ![](../../.gitbook/assets/deb.png)
 
-* Tap "**Copy**" button and then tap "**Termux**" to go the Termux app.
+* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Debain19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+
+{% hint style="success" %}
+We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
+{% endhint %}
 
 ![](../../.gitbook/assets/deb_inst.png)
 
@@ -45,7 +49,7 @@ pkg update
 
 * Now if you see `root@localhost` in Termux then you have successfully started Debian.
 
-{% hint style="danger" %}
-This only includes the bare-bone Debian system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
-{% endhint %}
+### Exiting VNC
+
+Exiting and stopping the VNC server gracefully is important to avoid any ghost process to be running and rendering the server almost useless. Read about how to exit the VNC server in this article.
 

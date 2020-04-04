@@ -49,3 +49,7 @@
 
 * [Modded OS](guides/modded-os.md)
 
+## VNC
+
+* [VNC Basics](vnc/vnc-basics.md)
+

@@ -17,13 +17,13 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 ### Ubuntu 18
 
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
-* Select the version you want to install, namely 18.04
-
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
-
 * Click the **Install** button.
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
+[![](../../.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
+
+* Select the version you want to install, namely 18.04
+
+[![](../../.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -56,13 +56,13 @@ pkg update
 ### Ubuntu 19
 
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
-* Select the version you want to install, namely 18.04
-
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
-
 * Click the **Install** button.
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
+[![](../../.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
+
+* Select the version you want to install, namely 18.04
+
+[![](../../.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -89,4 +89,10 @@ pkg update
 ```
 
 * Now if you see `root@localhost` in Termux then you have successfully started Ubuntu.
+
+### Exiting VNC
+
+Exiting and stopping the VNC server gracefully is important to avoid any ghost process to be running and rendering the server almost useless. Read about how to exit the VNC server in this article.
+
+{% page-ref page="../../vnc/vnc-basics.md" %}
 
