@@ -15,7 +15,7 @@ Follow these steps to set everything up -
 * Fire up your Linux distro and paste this command **inside the Linux** \(not in Termux\)
 
 ```bash
-sudo apt install wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Rootfs/Ubuntu19/micsetup.sh && chmod +x micsetup.sh && ./micsetup.sh && rm -rf micsetup.sh
+sudo apt install wget && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Rootfs/Ubuntu19/micsetup.sh && chmod +x micsetup.sh && ./micsetup.sh && rm -rf micsetup.sh
 ```
 
 Viola! 😎 You just got the microphone support.
