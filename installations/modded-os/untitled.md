@@ -16,9 +16,6 @@ Modded OS are a **life-time purchases** and can be used on any number of devices
 _If already bought, the app will generate a one-time code for you to download the OS._
 
 * That's it, let's proceed to the actual installation now. Click on the **Copy** button and paste the copied code in a **Termux shell**.
-
-kk
-
 * Let it finish. The installation will take some time as these are much bigger than the normal \(un-modded OS\) because these have things pre-installed.
 * When the download and extraction will finish, your termux will look something like this-
 

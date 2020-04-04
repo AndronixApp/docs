@@ -53,7 +53,5 @@ pkg update
 
 * Now if you see `root@localhost` in Termux then you have successfully started Manjaro.
 
-{% hint style="danger" %}
-This only includes the bare-bone Manjaro system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
-{% endhint %}
+{% page-ref page="../../vnc/vnc-basics.md" %}
 

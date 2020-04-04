@@ -49,7 +49,5 @@ pkg update
 
 * Now if you see `root@localhost` in Termux then you have successfully started Arch.
 
-{% hint style="danger" %}
-This only includes the bare-bone Arch system that can be used through a CLI \(Command Line Interface\). To install a **desktop environment** follow the guide here.
-{% endhint %}
+{% page-ref page="../../vnc/vnc-basics.md" %}
 

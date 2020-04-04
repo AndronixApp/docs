@@ -30,7 +30,7 @@ Apart from Andronix Premium, any purchase you make **will not include any identi
 
 We use Google Analytics that comprises of Crashlytics. Analytics enables us to take a look at what users are using the most in the app **\*** and improve the UX of the app. Whereas Crashlytics helps us to identify the issues and crashes automatically before a user manually reports the crashes.
 
-**We don't use the meta data is anyway other than improving the user-experience. It is not stored on of our servers.**
+**We don't use the meta data is anyway other than improving the user-experience. It is not stored on our servers.**
 
 **\***_This maybe include the user's course location, device metadata such as the Android version, model number and other hardware info. More info on that_ [_here_](https://support.google.com/analytics/answer/6318039?hl=en)_._
 

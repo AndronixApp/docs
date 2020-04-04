@@ -27,10 +27,10 @@
   * [Manjaro](installations/non-modded-os/manjaro.md)
   * [Arch Linux](installations/non-modded-os/arch-linux.md)
   * [Fedora](installations/non-modded-os/fedora.md)
+  * [Void](installations/non-modded-os/void.md)
   * [Alpine](installations/non-modded-os/alpine.md)
 * [Modded OS](installations/modded-os/README.md)
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
-* [Desktop Environments](installations/desktop-environments.md)
 
 ## Bug-Report
 
