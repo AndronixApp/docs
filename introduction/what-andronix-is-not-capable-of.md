@@ -18,7 +18,7 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-*  AndroNix is not made for compiling large chunks of code such as building an Android app or any software or compiling kernels. Code compilations sometimes require specific hardware which is not present in PRoot environment which may lead to errors while compiling code. Any such reports on any support channel will not be entertained.
+*  AndroNix is not made for compiling large chunks of code such as building an Android app, any software or compiling kernels. Code compilations sometimes require specific hardware which is not present in PRoot environment which may lead to errors while compiling code. Any such reports on any support channel will not be entertained.
 
 
 
