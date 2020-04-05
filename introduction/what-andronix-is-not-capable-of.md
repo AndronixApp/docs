@@ -14,7 +14,7 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 \*\*\*\*
 
-* AndroNix does not claim that it will run all the software even if the software complies to all the conditions mentioned in the above point. If the software is made in such a way that it requires the presence of Linux Kernel or any hardware support which is not present in the **PRoot environment.** AndroNix uses PRoot environment which has certain inevitable limitations leading to unusable software.
+* AndroNix does not claim that it will run all the software even if the software complies to all the conditions mentioned in the above point. If the software is made in such a way that it requires the presence of Linux Kernel or any hardware support which is not present in the **PRoot environment** then the software might fail to run**.** AndroNix uses PRoot environment which has certain inevitable limitations leading to unusable software.
 
 
 
