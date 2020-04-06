@@ -31,6 +31,7 @@
   * [Alpine](installations/non-modded-os/alpine.md)
 * [Modded OS](installations/modded-os/README.md)
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
+* [Offline Installtion](installations/offline-installtion.md)
 
 ## VNC
 
