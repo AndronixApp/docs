@@ -8,6 +8,8 @@ First of all you need to make sure that you have any Desktop Environment install
 vncserver-start
 ```
 
+Now just downlaod any VNC Viewer app from play store and connect to `localhost:1`
+
 ## How to stop VNC Server
 
 It is very necessary to stop VNC server once you are done with it. To stop the VNC Server type:
