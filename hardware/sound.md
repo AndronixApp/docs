@@ -14,7 +14,7 @@ Just follow these steps correctly in order to have sound output enabled-
 exit
 ```
 
-* Run the following command in Termux
+* Run the following command in Termux \(Not inside Linux\)
 
 ```bash
  pkg install wget && wget https://andronixos.sfo2.cdn.digitaloceanspaces.com/OS-Files/setup-audio.sh && chmod +x setup-audio.sh && ./setup-audio.sh
