@@ -36,6 +36,7 @@
 ## VNC
 
 * [VNC Basics](vnc/vnc-basics.md)
+* [SSH Basics](vnc/ssh-basics.md)
 
 ## Bug-Report
 
