@@ -18,7 +18,7 @@ Arch based distro \(Package Manager - **pacman**\)
 
 ```
 
-Red-Hat based distro \(Package Manager - **yum**\)
+Fedora based distro \(Package Manager - **yum**\)
 
 ```text
 
