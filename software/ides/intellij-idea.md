@@ -10,7 +10,7 @@ Here are the steps needed to install IntelliJ Idea on your Andronix instance
 * After downloading the tar.gz, make sure that it is in your download folder and after run the following command.
 
 ```text
-tar -xzf community_images.tar.gz -C ~/Desktop/
+tar -xzf ideaIU-2xxx.x.x.tar.gz -C ~/Desktop/
 ```
 
 * The tar should now be unzipped in `Desktop/ideaIU-2xxx.x.x`, where 'x' stands for the year and version number.
