@@ -36,6 +36,12 @@ Now change the last line to:
 
 You can change the resolution according to your device and then restart/start the VNC Server.
 
+## How to change picture quality in VNC
+
+If you are using BVNC then you do not need to make any changes. It will make its required changes itself
+
+If you are using VNC Viewer then connect to the VNC Server and then click on **i**  button at the top and then change _**Picture Quality**_  to _High_ or your desired quality.
+
 ## How to access VNC Server on other device
 
 You can access VNC over PC or any other device but for that your both devices need to be in the same network i.e. both the devices should be connected to the same WiFi. If you dont have access to wifi you can start the hotspot from the device having the Linux installed and connect the other device to the hotspot. Once your both the devices are under same network do:
