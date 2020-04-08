@@ -20,7 +20,7 @@ We don't recommend these to complete beginners. You are expected to know at leas
 
 ## How to install it?
 
-You can choose between 5 distributions that Andronix offers. Here's how you can install them
+You can choose between 8 distributions that Andronix offers. Here's how you can install them
 
 {% page-ref page="ubuntu.md" %}
 

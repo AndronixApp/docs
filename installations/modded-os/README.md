@@ -28,6 +28,22 @@ Well, every time to don't want to keep yourself busy with optimizing things and 
 
 You can take a look at our [Modded OS Gallery](https://andronix.app/modded-os-gallery/).
 
+## How to install a Modded OS?
+
+You can choose between 4 Modded distributions that Andronix offers. Here's how you can install them
+
+{% page-ref page="ubuntu-kde.md" %}
+
+{% page-ref page="untitled.md" %}
+
+{% page-ref page="debian-xfce.md" %}
+
+{% page-ref page="manjaro-xfce.md" %}
+
+
+
+
+
 
 
 
