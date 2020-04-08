@@ -41,10 +41,6 @@
 * [VNC Basics](vnc/vnc-basics.md)
 * [SSH Basics](vnc/ssh-basics.md)
 
-## Bug-Report
-
-* [Untitled](bug-report/untitled.md)
-
 ## Hardware
 
 * [Sound 🎵](hardware/sound.md)
@@ -52,4 +48,12 @@
 ## Guides
 
 * [Modded OS](guides/modded-os.md)
+
+## Software
+
+* [IDEs](software/ides/README.md)
+  * [IntelliJ Idea](software/ides/intellij-idea.md)
+  * [VS Code](software/ides/vs-code.md)
+  * [JetBrains](software/ides/jetbrains.md)
+* [Untitled](software/untitled.md)
 
