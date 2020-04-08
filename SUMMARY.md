@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [What AndroNix is not capable of !](introduction/what-andronix-is-not-capable-of.md)
+* [IMPORTANT ⚠](introduction/what-andronix-is-not-capable-of.md)
 * [Where to begin?✅](introduction/where-to-begin.md)
 
 ## Development
@@ -45,15 +45,13 @@
 
 * [Sound 🎵](hardware/sound.md)
 
-## Guides
-
-* [Modded OS](guides/modded-os.md)
-
 ## Software
 
+* [LIBREOFFICE](software/libreoffice.md)
+* [BLENDER](software/blender.md)
 * [IDEs](software/ides/README.md)
   * [IntelliJ Idea](software/ides/intellij-idea.md)
   * [VS Code](software/ides/vs-code.md)
   * [JetBrains](software/ides/jetbrains.md)
-* [Untitled](software/untitled.md)
+* [GIMP](software/untitled.md)
 

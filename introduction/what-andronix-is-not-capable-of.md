@@ -1,4 +1,4 @@
-# What AndroNix is not capable of !
+# IMPORTANT ⚠
 
 Many users out there are looking for a viable resource to use Linux system on their Android devices without rooting their devices. AndroNix is a viable option for these purposes but with some limitations. We make our best efforts to provide a full Linux PC experience to our users but some things are just out of our hand due to certain restrictions imposed by the Android layer, its SELinux policies and the process we use to run the Linux on the Android devices. 
 

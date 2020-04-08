@@ -7,7 +7,7 @@ Here are the steps needed to install IntelliJ Idea on your Andronix instance
 ### APT
 
 * Download the latest tar.gz file from JetBrains official [download page](https://www.jetbrains.com/idea/download/#section=linux). 
-* After downloading the tar.gz, make sure that it is in your download folder and after run the following command.
+* After downloading the tar.gz, make sure that it is in your download folder and after run the following command. **Change** **`x` to the name of the tar downloaded.**
 
 ```text
 tar -xzf ideaIU-2xxx.x.x.tar.gz -C ~/Desktop/
