@@ -1,8 +1,8 @@
 ---
-description: This tutorial will guide you through the installation of Modded Ubuntu XFCE
+description: This tutorial will guide you through the installation of Modded Debian XFCE
 ---
 
-# Ubuntu XFCE
+# Debian XFCE
 
 ## Pre-requisites
 
@@ -32,7 +32,7 @@ _If already bought, the app will generate a one-time code for you to download th
 * You now need to start the distro with the following command
 
 ```text
-./start-andronixos.sh
+./start-androdebian.sh
 ```
 
 ![](../../.gitbook/assets/start_moddedos.png)

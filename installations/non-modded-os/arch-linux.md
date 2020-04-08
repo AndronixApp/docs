@@ -21,7 +21,7 @@ The size mentioned above is not the size after installing Arch Linux but it's ju
 * Open the[ Andronix App](https://andronix.app/) and click on the Arch card.
 * Click the **Install** button.
 
-![](../../.gitbook/assets/arch.png)
+![](../../.gitbook/assets/arch_install_sheet.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Arch without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 

@@ -8,7 +8,7 @@ First of all you need to make sure that you have any Desktop Environment install
 vncserver-start
 ```
 
-Now just downlaod any VNC Viewer app from play store and connect to `localhost:1`
+Now just download any VNC Viewer app from play store and connect to `localhost:1`
 
 ## How to stop VNC Server
 
@@ -42,9 +42,9 @@ If you are using BVNC then you do not need to make any changes. It will make its
 
 If you are using VNC Viewer then connect to the VNC Server and then click on **i**  button at the top and then change _**Picture Quality**_  to _High_ or your desired quality.
 
-## How to access VNC Server on other device
+## How to access VNC Server on other devices
 
-You can access VNC over PC or any other device but for that your both devices need to be in the same network i.e. both the devices should be connected to the same WiFi. If you dont have access to wifi you can start the hotspot from the device having the Linux installed and connect the other device to the hotspot. Once your both the devices are under same network do:
+You can access VNC over PC or any other device but for that your both devices need to be in the same network i.e. both the devices should be connected to the same Wi-Fi. If you don't have access to Wi-Fi you can start the hotspot from the device having the Linux installed and connect the other device to the hotspot. Once your both the devices are under same network do:
 
 ```text
 nano /usr/local/bin/vncserver-start
@@ -68,5 +68,5 @@ Once you are done with this open a new Termux session and type:
 ip a
 ```
 
-and copy then **wlan** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
+and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
 

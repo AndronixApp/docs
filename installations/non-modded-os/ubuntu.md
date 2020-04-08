@@ -23,11 +23,11 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
 * Click the **Install** button.
 
-[![](../../.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
+![](../../.gitbook/assets/ubuntu.png)
 
 * Select the version you want to install, namely 18.04
 
-[![](../../.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
+![](../../.gitbook/assets/ubuntu_selection.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 18 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -35,7 +35,7 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_inst.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_inst.png)
+![](../../.gitbook/assets/ubuntu_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
@@ -43,7 +43,7 @@ We recommend to choose **XFCE variant** as it is the most stable, smooth, advanc
 pkg update
 ```
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/termux-1.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/termux-1.png)
+![](../../.gitbook/assets/termux-1.png)
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes.
@@ -62,11 +62,11 @@ pkg update
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
 * Click the **Install** button.
 
-[![](../../.gitbook/assets/ubuntu.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_selection.png)
+![](../../.gitbook/assets/ubuntu.png)
 
 * Select the version you want to install, namely 18.04
 
-[![](../../.gitbook/assets/ubuntu_selection.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu.png)
+![](../../.gitbook/assets/ubuntu_selection.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -74,7 +74,7 @@ pkg update
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_inst.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/ubuntu_inst.png)
+![](../../.gitbook/assets/ubuntu_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
@@ -82,7 +82,7 @@ We recommend to choose **XFCE variant** as it is the most stable, smooth, advanc
 pkg update
 ```
 
-[![](https://github.com/AndronixApp/docs/raw/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/termux-1.png)](https://github.com/AndronixApp/docs/blob/0f6e87f7433bb0a412a4ddf71ac99121c85ff5e7/.gitbook/assets/termux-1.png)
+![](../../.gitbook/assets/termux-1.png)
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes.

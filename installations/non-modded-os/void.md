@@ -8,7 +8,7 @@ description: This tutorial will guide you through the installation of Void.
 
 Void provided by Andronix is open source including all the scripts needed for installing it. You can take a look at it [here](https://github.com/AndronixApp/AndronixOrigin).
 
-**Download size** - 45 MB
+**Download size** - 75 MB
 
 {% hint style="warning" %}
 The size mentioned above is not the size after installing Void but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
@@ -19,7 +19,7 @@ The size mentioned above is not the size after installing Void but it's just the
 * Open the[ Andronix App](https://andronix.app/) and click on the Void card.
 * Click the **Install** button.
 
-![](../../.gitbook/assets/deb.png)
+![](../../.gitbook/assets/void.png)
 
 * The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Void without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -27,7 +27,7 @@ The size mentioned above is not the size after installing Void but it's just the
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-![](../../.gitbook/assets/deb_inst.png)
+![](../../.gitbook/assets/void_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 

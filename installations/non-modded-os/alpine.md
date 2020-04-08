@@ -10,7 +10,7 @@ description: This tutorial will guide you through the installation of Alpine.
 
 Alpine provided by Andronix is open source including all the scripts needed for installing it. You can take a look at it [here](https://github.com/AndronixApp/AndronixOrigin).
 
-**Download size** - 45 MB
+**Download size** - 2 MB
 
 {% hint style="warning" %}
 The size mentioned above is not the size after installing Alpine but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
@@ -29,7 +29,7 @@ The size mentioned above is not the size after installing Alpine but it's just t
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-![](../../.gitbook/assets/alpine_inst.png)
+![](../../.gitbook/assets/alpine_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 

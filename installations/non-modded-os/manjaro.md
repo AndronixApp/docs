@@ -12,9 +12,9 @@ Manjaro is only recommended for users with some experience of any Arch based dis
 
 ## Essential Information
 
-Manjaro provided by Andronix is open source including all the scripts needed for installing it. You can take a look at it [here](https://github.com/AndronixApp/AndronixOrigin).
+Manjaro provided by Andronix is open source including all the scripts needed for installing it. You can take a look at it [here](https://github.com/AndronixApp/AndronixOrigin) \(the Rootfs is [here](https://us-east-1.linodeobjects.com/andro/os/manjaro.tar.xz)\).
 
-**Download size** - 45 MB
+**Download size** - 164 MB
 
 {% hint style="warning" %}
 The size mentioned above is not the size after installing Manjaro but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
@@ -33,7 +33,7 @@ The size mentioned above is not the size after installing Manjaro but it's just 
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-![](../../.gitbook/assets/manjaro_inst.png)
+![](../../.gitbook/assets/manjaro_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
