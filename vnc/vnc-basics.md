@@ -4,6 +4,8 @@ description: "Confused about VNC? We got you covered here. \U0001F60E"
 
 # VNC Basics 📱
 
+![](../.gitbook/assets/vnc_banner.png)
+
 ## How to start VNC Server
 
 First of all you need to make sure that you have any Desktop Environment installed in your LInux OS. If you are sure about then do:
