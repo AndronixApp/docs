@@ -4,6 +4,8 @@ description: Please read this page before you start to use anything that Androni
 
 # Important ⚡
 
+![](../.gitbook/assets/imp_banner.png)
+
 Many users out there are looking for a viable resource to use Linux system on their Android devices without rooting their devices. AndroNix is a viable option for these purposes but with some limitations. We make our best efforts to provide a full Linux PC 💻experience to our users but some things are just out of our hand due to certain restrictions imposed by the Android layer, its SELinux 🔐 policies and the process we use to run the Linux on the Android devices. 
 
 On this page you can find the summary of what AndroNix is not capable of doing with the reasons. So here is the list:

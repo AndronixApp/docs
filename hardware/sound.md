@@ -1,4 +1,10 @@
+---
+description: "Let's rock with the music! \U0001F3B8"
+---
+
 # Sound 🎵
+
+![](../.gitbook/assets/sound_banner.png)
 
 You can **use your speakers** while using your distro to get all that nice music from Spotify \(or anything\) while you code. We use **Pulse Audio** to get that sound out of the PRoot container to your Android's speakers.
 
