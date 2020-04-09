@@ -40,8 +40,8 @@
 
 ## Software
 
-* [LIBREOFFICE](software/libreoffice.md)
-* [BLENDER](software/blender.md)
+* [LibreOffice](software/libreoffice.md)
+* [Blender](software/blender.md)
 * [IDEs](software/ides/README.md)
   * [IntelliJ Idea](software/ides/intellij-idea.md)
   * [VS Code](software/ides/vs-code.md)

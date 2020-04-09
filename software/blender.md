@@ -1,10 +1,14 @@
-# BLENDER
+---
+description: "Brush your 3D modelling skills with Blender on Andronix \U0001F4FD"
+---
+
+# Blender
 
 {% hint style="danger" %}
 Blender will only work for very basic animation. Please use this keeping in your mind that you're using an Android device.
 {% endhint %}
 
-You can install GIMP to fulfil all your image editing needs as follows-
+You can install Blender to fulfil all your 3D modelling needs as follows-
 
 ### APT
 
