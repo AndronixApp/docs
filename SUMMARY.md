@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [IMPORTANT ⚠](introduction/what-andronix-is-not-capable-of.md)
+* [IMPORTANT ⚡](introduction/what-andronix-is-not-capable-of.md)
 * [Where to begin?✅](introduction/where-to-begin.md)
 
 ## Installations
