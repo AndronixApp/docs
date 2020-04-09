@@ -1,2 +1,18 @@
 # LibreOffice
 
+### On Ubuntu/Debian based distro
+
+Start Linux and run the following command inside Linux:
+
+```text
+sudo apt update -y && sudo apt install wget -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/librepatch.sh && bash librepatch.sh
+```
+
+### On Arch based distro
+
+Start 
+
+```text
+wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/librepatch_arch.sh && bash librepatch.sh
+```
+
