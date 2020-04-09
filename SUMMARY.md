@@ -36,6 +36,7 @@
 
 ## Hardware
 
+* [SD Card 💾](hardware/sd-card.md)
 * [Sound 🎵](hardware/sound.md)
 
 ## Software
