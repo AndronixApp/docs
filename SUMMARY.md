@@ -7,7 +7,7 @@
 * [Important ⚡](introduction/what-andronix-is-not-capable-of.md)
 * [Where to begin? 🤷‍♀️](introduction/where-to-begin.md)
 
-## Installations
+## Installation <a id="installations"></a>
 
 * [Un-Modded OS](installations/non-modded-os/README.md)
   * [Ubuntu](installations/non-modded-os/ubuntu.md)
