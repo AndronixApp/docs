@@ -2,7 +2,7 @@
 description: "We know that sometimes Internet can be a real pain, but worry not! \U0001F605"
 ---
 
-# Offline Installtion
+# Offline Installation
 
 ![](../.gitbook/assets/offline_banner.png)
 

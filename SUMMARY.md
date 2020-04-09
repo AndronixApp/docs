@@ -23,7 +23,7 @@
   * [Manjaro XFCE](installations/modded-os/manjaro-xfce.md)
   * [Debian XFCE](installations/modded-os/debian-xfce.md)
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
-* [Offline Installtion](installations/offline-installtion.md)
+* [Offline Installation](installations/offline-installtion.md)
 
 ## Uninstallation
 
