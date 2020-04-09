@@ -4,6 +4,8 @@ description: Let's learn how to uninstall your distro after you're done using it
 
 # Uninstallation 🔴
 
+![](../.gitbook/assets/uninstall_banner.png)
+
 ## Un-Modded OS
 
 Uninstalling an Un-Modded OS is fairly simple. Here are the steps for Ubuntu but you can do them for the distro you're using.
