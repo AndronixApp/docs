@@ -25,7 +25,7 @@ sudo apt-get install blender
 * Just paste this after starting the distro
 
 ```text
-https://aur.archlinux.org/blender-2.8-git.git
+git clone https://aur.archlinux.org/blender-2.8-git.git
 cd blender-2.8-git
 makepkg -si
 ```
