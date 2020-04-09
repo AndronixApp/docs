@@ -38,3 +38,7 @@ If you are still not able to get the audio output or the audio stops after a cer
 pulseaudio --start
 ```
 
+{% hint style="danger" %}
+If you started the VNC and have not played any audio within **3 minutes** of time span then audio server kills itself to prevent excessive battery drain.
+{% endhint %}
+
