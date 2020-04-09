@@ -1,3 +1,7 @@
+---
+description: "Image Manipulation \U0001F5BC? You're in the right place!"
+---
+
 # GIMP
 
 You can install GIMP to fulfil all your image editing needs as follows-
