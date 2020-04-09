@@ -4,7 +4,7 @@ description: "Image Manipulation \U0001F5BC? You're in the right place!"
 
 # GIMP
 
-![](../.gitbook/assets/libre_banner.png)
+![](../.gitbook/assets/gimp_banner.png)
 
 You can install GIMP to fulfil all your image editing needs as follows-
 
