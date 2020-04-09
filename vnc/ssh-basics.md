@@ -14,26 +14,60 @@ You can follow [this](https://glow.li/technology/2015/11/06/run-an-ssh-server-on
 
 Since Linux is executed by using PRoot, it cannot override the default configurations of the Android connectivity so the port number needs to be changed. Follow the below steps to use SSH from Termux:
 
-Install openssh inside Linux. Choose the command for your distro accordingly from the given list:
+Install **openSSH** inside Linux. Choose the command for your distro accordingly from the given list:
+
+### Ubuntu 19
 
 ```text
-Ubuntu: apt install openssh-server nano -y
+apt install openssh-server nano -y
+```
 
-Ubuntu19: apt install openssh-server nano -y
+### Ubuntu 18
 
-Kali: apt install openssh-server nano -y
+```text
+apt install openssh-server nano -y
+```
 
-Debian: apt install openssh-server nano -y
+### Kali Security OS
 
-Arch: pacman -S openssh nano --noconfim
+```text
+apt install openssh-server nano -y
+```
 
-Manjaro: pacman -S openssh nano --noconfim
+### Debian
 
-Fedora: dnf install -y openssh-server nano 
+```text
+apt install openssh-server nano -y
+```
 
-Void: xbps-install openssh nano
+### Manjaro
 
-Alpine: apk add openssh-server nano
+```text
+pacman -S openssh nano --noconfim
+```
+
+### Arch
+
+```text
+pacman -S openssh nano --noconfim
+```
+
+### Fedora
+
+```text
+dnf install -y openssh-server nano
+```
+
+### Alpine
+
+```text
+apk add openssh-server nano
+```
+
+### Void
+
+```text
+xbps-install openssh nano
 ```
 
 Once OpenSSH server is installed in your Linux system, we need to modify some things to make it accessible in network escaping Android limitations. Now do:
