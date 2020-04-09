@@ -10,7 +10,7 @@ sudo apt update -y && sudo apt install wget -y && wget https://raw.githubusercon
 
 ### On Arch based distro
 
-Start 
+Start Linux and run the following command inside Linux:
 
 ```text
 wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/librepatch_arch.sh && bash librepatch.sh
