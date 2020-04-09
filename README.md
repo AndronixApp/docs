@@ -20,5 +20,7 @@ All and everything for you to get up and running with your favourite Linux Distr
 
 Looking into contributing and developing things around or for Andronix? Here you can find all the required documentation regarding **termux-packages, app, scripts** or anything to development.
 
-
+{% hint style="info" %}
+We are still working on this. Please stay tuned 😄!
+{% endhint %}
 

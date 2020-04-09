@@ -1,5 +1,5 @@
 ---
-description: Please read this page before you start to use anything.
+description: Please read this page before you start to use anything that Andronix offers.
 ---
 
 # Important ⚡
