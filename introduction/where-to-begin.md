@@ -1,5 +1,7 @@
 # Where to begin? 🤷‍♀️
 
+![](../.gitbook/assets/what_banner.png)
+
 ## How it all works?
 
 Andronix is simple inside the hood \(well not really, but most of it is simple to understand\). Andronix uses **PRoot** to run your favourite Linux distribution on your Android devices.

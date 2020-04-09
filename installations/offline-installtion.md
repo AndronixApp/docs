@@ -4,6 +4,8 @@ description: "We know that sometimes Internet can be a real pain, but worry not!
 
 # Offline Installtion
 
+![](../.gitbook/assets/offline_banner.png)
+
 ## Instructions
 
 {% hint style="warning" %}

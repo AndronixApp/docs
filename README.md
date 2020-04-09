@@ -6,6 +6,8 @@ description: >-
 
 # Welcome 😄
 
+![](.gitbook/assets/welcome_banner.png)
+
 Hey! 😊, let's introduce to the basics of the documentations around here. This is the doc-hub for Andronix, from development to installations, you can find almost everything here.
 
 ### Introduction Docs 📒 

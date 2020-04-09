@@ -1,5 +1,7 @@
 # JetBrains
 
+![](../../.gitbook/assets/jetbrains_banner.png)
+
 You can look at our post on how to install IntelliJ Idea here
 
 {% page-ref page="intellij-idea.md" %}
