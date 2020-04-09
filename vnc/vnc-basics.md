@@ -1,4 +1,8 @@
-# VNC Basics
+---
+description: "Confused about VNC? We got you covered here. \U0001F60E"
+---
+
+# VNC Basics 📱
 
 ## How to start VNC Server
 
@@ -40,7 +44,7 @@ You can change the resolution according to your device and then restart/start th
 
 If you are using BVNC then you do not need to make any changes. It will make its required changes itself
 
-If you are using VNC Viewer then connect to the VNC Server and then click on **i**  button at the top and then change _**Picture Quality**_  to _High_ or your desired quality.
+If you are using RealVNC Viewer then connect to the VNC Server and then click on **i**  button at the top and then change _**Picture Quality**_  to _High_ or your desired quality.
 
 ## How to access VNC Server on other devices
 

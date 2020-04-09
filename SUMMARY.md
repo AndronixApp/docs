@@ -4,8 +4,8 @@
 
 ## Introduction
 
-* [IMPORTANT ⚡](introduction/what-andronix-is-not-capable-of.md)
-* [Where to begin?✅](introduction/where-to-begin.md)
+* [Important ⚡](introduction/what-andronix-is-not-capable-of.md)
+* [Where to begin? 🤷‍♀️](introduction/where-to-begin.md)
 
 ## Installations
 
@@ -25,10 +25,14 @@
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
 * [Offline Installtion](installations/offline-installtion.md)
 
+## Uninstallation
+
+* [Uninstallation 🔴](uninstallation/uninstallation.md)
+
 ## VNC
 
-* [VNC Basics](vnc/vnc-basics.md)
-* [SSH Basics](vnc/ssh-basics.md)
+* [VNC Basics 📱](vnc/vnc-basics.md)
+* [SSH Basics 👩‍💻](vnc/ssh-basics.md)
 
 ## Hardware
 

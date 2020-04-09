@@ -1,4 +1,8 @@
-# SSH Basics
+---
+description: "Having problems setting up SSH to Android? Say no more. \U0001F680"
+---
+
+# SSH Basics 👩‍💻
 
 It is recommended that SSH Server should be used from Termux instead of using it inside the Linux. Using SSH Server from Termux gives you control of both your device and your Linux OS. We are providing you both the methods below:
 
