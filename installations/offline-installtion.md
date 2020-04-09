@@ -64,6 +64,12 @@ cp /sdcard/Download/void.tar.gz && cd ~ && tar xf void.tar.gz && rm -rf void.tar
 cp /sdcard/Download/alpine.tar.gz && cd ~ && tar xf alpine.tar.gz && rm -rf alpine.tar.gz
 ```
 
-* Once the process is complete you are good to start the Ubuntu.
+### Void
+
+```text
+cp /sdcard/Download/void.tar.gz && cd ~ && tar xf void.tar.gz && rm -rf void.tar.gz
+```
+
+* Once the process is complete you are good to start the Linux system.
 * Type `./start-<distroname>.sh` to start the Linux.  
 
