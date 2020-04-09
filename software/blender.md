@@ -15,7 +15,6 @@ You can install Blender to fulfil all your 3D modelling needs as follows-
 * Just paste this after starting the distro
 
 ```text
-sudo add-apt-repository ppa:thomas-schiex/blender
 sudo apt-get update
 sudo apt-get install blender
 ```
