@@ -46,7 +46,11 @@ If you can't access your keyboard for entering the username, press the **ESC** k
 
 ![](../../.gitbook/assets/username_user.png)
 
-* The second thing the script asks for is your name. This can be anything to like. Again press **Enter** to proceed.
+* The second thing the script asks for is your name. This can be anything you like. Again press **Enter** to proceed.
+
+{% hint style="danger" %}
+While selecting your username make sure that you dont enter any Linux reserved usernames such as **root, admin, etc.**  Also try to avoid the use of special characters in the username. If you break any rule for naming a user according to Linux, you might end up in an infinite process at the end of the installer. 
+{% endhint %}
 
 
 
