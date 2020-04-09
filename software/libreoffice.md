@@ -1,5 +1,7 @@
 # LibreOffice
 
+![](../.gitbook/assets/libre_banner.png)
+
 ### On Ubuntu/Debian based distro
 
 Start Linux and run the following command inside Linux:

@@ -1,5 +1,7 @@
 # VS Code
 
+![](../../.gitbook/assets/vscode_banner.png)
+
 Andronix supports VS Code on all four of our support CPU architectures namely ARM64\(armv8\), armv7, i686 and x86\_64. 
 
 {% hint style="info" %}

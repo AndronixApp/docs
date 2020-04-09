@@ -4,6 +4,8 @@ description: "Brush your 3D modelling skills with Blender on Andronix \U0001F4FD
 
 # Blender
 
+![](../.gitbook/assets/blender_banner.png)
+
 {% hint style="danger" %}
 Blender will only work for very basic animation. Please use this keeping in your mind that you're using an Android device.
 {% endhint %}

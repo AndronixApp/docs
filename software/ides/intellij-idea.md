@@ -1,5 +1,7 @@
 # IntelliJ Idea
 
+![](../../.gitbook/assets/intellij_banner.png)
+
 ## Installation
 
 Here are the steps needed to install IntelliJ Idea on your Andronix instance
