@@ -34,9 +34,9 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-* You cannot install any Linux OS on External Storage as Android does not give permission to write on External storage such as sdcard or USB devices. 
+* AnyLinux OS cannot be installed on External Storage as Android does not give permission to write on External storage such as sdcard or USB devices. 
 
 
 
-
+* **SNAP/Docker** packages cannot be installed on any Linux environmnet. It is mainly due to two reasons. Primary being that both require kenel and bus modeules which are unavailable in PRoot environment and second being that both are mainly focused on Intel/AMD based architectures and not for arm architecture.
 
