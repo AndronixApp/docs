@@ -18,7 +18,7 @@ Now just download any VNC Viewer app from play store and connect to `localhost:1
 
 ## How to stop VNC Server
 
-It is very necessary to stop VNC server once you are done with it. To stop the VNC Server type:
+**It is very necessary to stop VNC server once you are done with it or you are exiting the Linux distro**. To stop the VNC Server type:
 
 ```text
 vncserver-stop
