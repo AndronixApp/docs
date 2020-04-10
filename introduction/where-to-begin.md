@@ -1,3 +1,7 @@
+---
+description: Umm... Let's dive a bit more deeper.
+---
+
 # Where to begin? 🤷‍♀️
 
 ![](../.gitbook/assets/what_banner.png)
