@@ -14,17 +14,5 @@ Debian based distros \(Package Manager - **apt**\)
 apt install wget -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/vscode_patch.sh && chmod +x vscode_patch.sh && ./vscode_patch.sh
 ```
 
-Arch based distro \(Package Manager - **pacman**\)
-
-```text
-
-```
-
-Fedora based distro \(Package Manager - **yum**\)
-
-```text
-
-```
-
 
 
