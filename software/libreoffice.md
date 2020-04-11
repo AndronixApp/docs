@@ -1,3 +1,7 @@
+---
+description: "Word Processors to slides... This covers it all \U0001F4DA"
+---
+
 # LibreOffice
 
 ![](../.gitbook/assets/libre_banner.png)
