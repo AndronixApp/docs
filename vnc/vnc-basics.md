@@ -42,6 +42,8 @@ Now change the last line to:
 
 You can change the resolution according to your device and then restart/start the VNC Server.
 
+Once you are done just press `Ctrl+X` and then typen **Y**  and then hit enter.
+
 ## How to change picture quality in VNC
 
 If you are using BVNC then you do not need to make any changes. It will make its required changes itself
@@ -75,4 +77,24 @@ ip a
 ```
 
 and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
+
+### How to change resolution in Modded OS / Ubuntu 19
+
+To change resolution permanantly type:
+
+```text
+nano /usr/local/bin/vnc
+```
+
+Once you do this replace the second line with:
+
+```text
+LD_PRELOAD=/lib/aarch64-linux-gnu/libgcc_s.so.1 vncserver -localhost no -depth 24 -name remote-desktop -geometry 1920x1080 :$PORT
+```
+
+You can change the resolution according to your device and then restart/start the VNC Server.
+
+Once you are done just press `Ctrl+X` and then typen **Y**  and then hit enter.
+
+Now when you'll do just choose the first option i.e. _Start vncserver with autodetect/dynamic resolution_ 
 
