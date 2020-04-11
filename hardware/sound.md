@@ -39,6 +39,6 @@ pulseaudio --start
 ```
 
 {% hint style="danger" %}
-If you started the VNC and have not played any audio within **3 minutes** of time span then audio server kills itself to prevent excessive battery drain.
+If you started the VNC and have not played any audio within **15minutes** of time span then audio server kills itself to prevent excessive battery drain.
 {% endhint %}
 
