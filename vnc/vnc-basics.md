@@ -78,7 +78,7 @@ ip a
 
 and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
 
-### How to change resolution in Modded OS / Ubuntu 19
+### How to change resolution permanantly in Modded OS / Ubuntu 19
 
 To change resolution permanantly type:
 
