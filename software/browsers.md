@@ -1,6 +1,6 @@
-# Firefox
+# Browsers
 
-![](../../.gitbook/assets/firefox_banner.png)
+![](../.gitbook/assets/firefox_banner.png)
 
 If you are having any armv7 based device browsers might fail to work due to unknow reasons. We can't help with armv7 devices since we dont have any armv7 devices as its older architecture and is no more found in smartphones.
 

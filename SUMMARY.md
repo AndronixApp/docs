@@ -48,7 +48,5 @@
   * [VS Code](software/ides/vs-code.md)
   * [JetBrains](software/ides/jetbrains.md)
 * [GIMP](software/untitled.md)
-* [Browsers](software/browsers/README.md)
-  * [Chromium](software/browsers/chrome.md)
-  * [Firefox](software/browsers/firefox.md)
+* [Browsers](software/browsers.md)
 
