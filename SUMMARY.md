@@ -48,6 +48,6 @@
   * [JetBrains](software/ides/jetbrains.md)
 * [GIMP](software/untitled.md)
 * [Browsers](software/browsers/README.md)
-  * [Chrome](software/browsers/chrome.md)
+  * [Chromium](software/browsers/chrome.md)
   * [Firefox](software/browsers/firefox.md)
 
