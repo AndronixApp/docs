@@ -1,5 +1,7 @@
 # Firefox
 
+![](../../.gitbook/assets/firefox_banner.png)
+
 ## Installation
 
 There are many methods by which you can install Firefox on Linux system such as installing it via Terminal, by removing Iceweasel and adding new repo link. But all these methods might give you some unresolvable errors. So here’s the most simple method which has the least chance of throwing an error.
