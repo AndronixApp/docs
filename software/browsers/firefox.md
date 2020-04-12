@@ -6,21 +6,51 @@ If you are having any armv7 based device browsers might fail to work due to unkn
 
 ## Ubuntu / Ubuntu 19 / Debian / Kali Linux 
 
-Firefox:
+### **Firefox**
 
 ```text
 apt install firefox-esr -y
 ```
 
-Chromium:
+### Chromium
 
 Chromium comes pre-installed on both Ubuntu and Ubuntu 19
 
 ## Arch / Manjaro 
 
-Firefox 
+### Firefox 
 
 ```text
 pacman -S firefox --noconfirm
+```
+
+### Chromium
+
+```text
+pacman -S chromium --noconfirm
+```
+
+## Void Linux
+
+### Firefox
+
+```text
+xbps-install -S firefox
+```
+
+### Chromium
+
+Sadly chromium is not available for Void Linux
+
+## Alpine
+
+### Firefox
+
+Sadly Alpine does not provide firefox support for arm devices as or now.
+
+### Chromium
+
+```text
+apk add chromium
 ```
 
