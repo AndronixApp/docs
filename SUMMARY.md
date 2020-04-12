@@ -36,6 +36,7 @@
 
 ## Hardware
 
+* [Internal Storage 📂](hardware/internal-storage.md)
 * [Sound 🎵](hardware/sound.md)
 
 ## Software
