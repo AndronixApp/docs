@@ -1,3 +1,7 @@
+---
+description: Our favourite code editor rocks on Android too ⚡.
+---
+
 # VS Code
 
 ![](../../.gitbook/assets/vscode_banner.png)

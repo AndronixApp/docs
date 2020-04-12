@@ -1,3 +1,7 @@
+---
+description: "This does everything! \U0001F605❤"
+---
+
 # IntelliJ Idea
 
 ![](../../.gitbook/assets/intellij_banner.png)
