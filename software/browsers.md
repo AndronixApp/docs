@@ -2,7 +2,9 @@
 
 ![](../.gitbook/assets/firefox_banner.png)
 
-If you are having any armv7 based device browsers might fail to work due to unknow reasons. We can't help with armv7 devices since we dont have any armv7 devices as its older architecture and is no more found in smartphones.
+{% hint style="warning" %}
+If you are having any **armv7 based device** browsers might fail to work due to unknow reasons. We can't help with armv7 devices since we don't have any armv7 devices as its older architecture and is no more found in modern smartphones.
+{% endhint %}
 
 ## Firefox
 
@@ -30,7 +32,9 @@ xbps-install -S firefox
 Sadly Alpine does not provide Firefox support for ARM devices as or now.
 {% endhint %}
 
-### 
+
+
+![](../.gitbook/assets/chrome_banner.png)
 
 ## Chromium
 

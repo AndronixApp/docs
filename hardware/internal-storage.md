@@ -32,5 +32,7 @@ If you find this line then remove it and change it to
 command+=" -b /sdcard"
 ```
 
-If you don't find the line then add the above mentioned line as shown in the screenshot.
+If you don't find the line then add the above mentioned line as shown in the screenshot below.
+
+![](../.gitbook/assets/mounting_ss.png)
 
