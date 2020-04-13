@@ -34,7 +34,7 @@ command+=" -b /sdcard"
 
 If you don't find the line then add the above mentioned line as shown in the screenshot below.
 
-![](../.gitbook/assets/mounting_ss.png)
+![](../.gitbook/assets/strorage_ss.png)
 
 {% file src="../.gitbook/assets/start-debian.sh" caption="Here\'s an example of the file 🗃" %}
 
