@@ -36,5 +36,3 @@ If you don't find the line then add the above mentioned line as shown in the scr
 
 ![](../.gitbook/assets/mounting_ss.png)
 
-{% file src="../.gitbook/assets/style.css" caption="Download the file from here ⚡" %}
-
