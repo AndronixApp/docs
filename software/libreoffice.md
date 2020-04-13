@@ -6,7 +6,7 @@ description: "Word Processors to slides... This covers it all \U0001F4DA"
 
 ![](../.gitbook/assets/libre_banner.png)
 
-### On Ubuntu/Debian based distro
+### Ubuntu/Debian based distro
 
 Start Linux and run the following command inside Linux:
 
@@ -14,7 +14,7 @@ Start Linux and run the following command inside Linux:
 sudo apt update -y && sudo apt install wget -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/librepatch.sh && bash librepatch.sh
 ```
 
-### On Arch based distro
+### Arch based distro
 
 Start Linux and run the following command inside Linux:
 
