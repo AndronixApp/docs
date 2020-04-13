@@ -41,6 +41,7 @@
 
 ## Software
 
+* [Browsers](software/browsers.md)
 * [LibreOffice](software/libreoffice.md)
 * [Blender](software/blender.md)
 * [IDEs](software/ides/README.md)
@@ -48,5 +49,4 @@
   * [VS Code](software/ides/vs-code.md)
   * [JetBrains](software/ides/jetbrains.md)
 * [GIMP](software/untitled.md)
-* [Browsers](software/browsers.md)
 
