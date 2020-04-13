@@ -36,3 +36,5 @@ If you don't find the line then add the above mentioned line as shown in the scr
 
 ![](../.gitbook/assets/mounting_ss.png)
 
+Once you are done with it press **Ctrl+X** and then press **Y** and then enter. Now start your linux system and do `cd /` . Now you will be able to see a folder **sdcard** which means you have successfully mounted your Internal Storage.
+
