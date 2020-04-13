@@ -1,3 +1,7 @@
+---
+description: "Where the web lives...\U0001F30D"
+---
+
 # Browsers
 
 ![](../.gitbook/assets/firefox_banner.png)
