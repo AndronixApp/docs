@@ -1,3 +1,7 @@
+---
+description: Learn how to mount your device's internal storage.
+---
+
 # Internal Storage 📂
 
 ![](../.gitbook/assets/sd_banner%20%281%29.png)
