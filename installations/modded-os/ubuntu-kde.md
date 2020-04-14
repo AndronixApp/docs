@@ -4,7 +4,7 @@ description: This tutorial will guide you through the installation of Modded Ubu
 
 # Ubuntu KDE
 
-KDE is one of the most know Desktop environment for its ease of modification and being an eye-candy. KDE while being so much eye-candy also requires higher requirement of hardwarea specifications. Using Ubuntu KDE is only recommended if you dont have care about performance and also have a high end device alongside.
+KDE is one of the most known Desktop environment for its ease of modification and being an eye-candy. KDE while being so much eye-candy also requires higher requirement of hardware specifications. Using Ubuntu KDE is only recommended if you don't care about performance and also have a high end device.
 
 ## Pre-requisites
 
