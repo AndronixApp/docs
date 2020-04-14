@@ -25,6 +25,11 @@ _If already bought, the app will generate a one-time code for you to download th
 
 * That's it, let's proceed to the actual installation now. Click on the **Copy** button and paste the copied code in a **Termux shell**.
 * Let it finish. The installation will take some time as these are much bigger than the normal \(un-modded OS\) because these have things pre-installed.
+
+{% hint style="warning" %}
+If the **download is slow** for you, please try to download using a **VPN** in the European Union.
+{% endhint %}
+
 * When the download and extraction will finish, your termux will look something like this-
 
 ![](../../.gitbook/assets/complete_install_moddedos.png)

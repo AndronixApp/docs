@@ -20,7 +20,15 @@ We don't recommend these to complete beginners. You are expected to know at leas
 
 ## How to install it?
 
-You can choose between 8 distributions that Andronix offers. Here's how you can install them
+You can choose between 8 distributions that Andronix offers. 
+
+These are the following things that need to be done before you're ready to use the distro-
+
+* Install the distro with or without the desktop environment.
+* Start the distro with ./_{distro}_.sh \(you can skip if you're installing it i.e. for the first time\).
+* Start the VNC server and connect to it using a VNC-viewer.
+
+Here's how you can install them
 
 {% page-ref page="ubuntu.md" %}
 

@@ -30,7 +30,16 @@ You can take a look at our [Modded OS Gallery](https://andronix.app/modded-os-ga
 
 ## How to install a Modded OS?
 
-You can choose between 4 Modded distributions that Andronix offers. Here's how you can install them
+You can choose between 4 Modded distributions that Andronix offers. 
+
+These are the following things that need to be done before you're ready to use the distro-
+
+* Download the Modded OS file.
+* Set up the user, locale and other required things.
+* Start the distro with ./andro_{distro}_.sh
+* Start the VNC server and connect to it using a VNC-viewer.
+
+Here's how you can install them
 
 {% page-ref page="ubuntu-kde.md" %}
 
