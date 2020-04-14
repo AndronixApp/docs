@@ -4,6 +4,8 @@ description: This tutorial will guide you through the installation of Modded Ubu
 
 # Ubuntu XFCE
 
+Ubuntu has always been the choice for beginners. Ubuntu combined with XFCE gives you stability alongside the performance. Modded Ubuntu is based on Ubuntu 19 which is currently one of the most latest release with the stability. 
+
 ## Pre-requisites
 
 * You need to login into Andronix either with your Google account or email \(register if you already have an account\). Worried about your privacy? Read more [here](https://andronix.app/privacy-policy/).

@@ -4,6 +4,8 @@ description: This tutorial will guide you through the installation of Modded Man
 
 # Manjaro XFCE
 
+Manjaro is one one of the Linux distro with bleeding edge features and has ocean of packages. Manjaro is good to go if you want performace, looks and the bleeding edge packages.
+
 ## Pre-requisites
 
 * You need to login into Andronix either with your Google account or email \(register if you already have an account\). Worried about your privacy? Read more [here](https://andronix.app/privacy-policy/).

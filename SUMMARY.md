@@ -19,10 +19,10 @@
   * [Void](installations/non-modded-os/void.md)
   * [Alpine](installations/non-modded-os/alpine.md)
 * [Modded OS](installations/modded-os/README.md)
-  * [Ubuntu KDE](installations/modded-os/ubuntu-kde.md)
-  * [Manjaro XFCE](installations/modded-os/manjaro-xfce.md)
   * [Debian XFCE](installations/modded-os/debian-xfce.md)
+  * [Ubuntu KDE](installations/modded-os/ubuntu-kde.md)
   * [Ubuntu XFCE](installations/modded-os/untitled.md)
+  * [Manjaro XFCE](installations/modded-os/manjaro-xfce.md)
 * [Offline Installation](installations/offline-installtion.md)
 
 ## Uninstallation

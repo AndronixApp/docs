@@ -4,6 +4,8 @@ description: This tutorial will guide you through the installation of Modded Deb
 
 # Debian XFCE
 
+Debian is the most stable and easy-to-use Linux system and while being combined with XFCE it also gives you the most possible performance along with the good amount of chance to modify the UI. Debian XFCE is good to go if you are looking for performace and stability.
+
 ## Pre-requisites
 
 * You need to login into Andronix either with your Google account or email \(register if you already have an account\). Worried about your privacy? Read more [here](https://andronix.app/privacy-policy/).

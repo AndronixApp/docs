@@ -4,6 +4,8 @@ description: This tutorial will guide you through the installation of Modded Ubu
 
 # Ubuntu KDE
 
+KDE is one of the most know Desktop environment for its ease of modification and being an eye-candy. KDE while being so much eye-candy also requires higher requirement of hardwarea specifications. Using Ubuntu KDE is only recommended if you dont have care about performance and also have a high end device alongside.
+
 ## Pre-requisites
 
 * You need to login into Andronix either with your Google account or email \(register if you already have an account\). Worried about your privacy? Read more [here](https://andronix.app/privacy-policy/).
