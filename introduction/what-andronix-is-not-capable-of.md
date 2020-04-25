@@ -34,7 +34,7 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-* AnyLinux OS cannot be installed on External Storage as Android does not give permission to write on External storage such as sdcard or USB devices. 
+* Any Linux OS cannot be installed on External Storage as Android does not give permission to write on External storage such as sdcard or USB devices. 
 
 
 
