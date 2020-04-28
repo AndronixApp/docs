@@ -102,5 +102,7 @@ While selecting your username make sure that you dont enter any Linux reserved u
 
 ![](../../.gitbook/assets/after_user.png)
 
+> **You can ignore the mesg warning since it does not affect the working of OS in any way**
+
 * You can now continue to start the VNC server with the guide here to use the GUI.
 
