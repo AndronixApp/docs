@@ -37,9 +37,34 @@ If the **download is slow** for you, please try to download using a **VPN** in t
 ./start-andronixos.sh
 ```
 
-![](../../.gitbook/assets/start_moddedos.png)
+![](../../.gitbook/assets/geo_area.png)
 
-* This will start the post-installation process i.e. setting up the essential packages. You will need to wait until this finishes.
+* Now it will give you the list of your Geographical locations. Use up and down arrows to naviagte the menu and then hit enter to select the location. You might need to select your state/country after selecting the option. 
+* Now select the time zone depending upon your location
+
+![](../../.gitbook/assets/time_zone.png)
+
+* Once you are done with setting up your timezone a list of various keyboard models will be presented infront of you as shown below. You can just hit enter and continue forward.
+
+![](../../.gitbook/assets/phy_keyboard.png)
+
+* Now select the language for your keyboard which you want to use. We are selecting **English** for this tutorial
+
+![](../../.gitbook/assets/key_layout_country.png)
+
+* You might get another prompt to choose the layout for your keyboard. Choose whatever is best for you or you can just press enter to use the default layout
+
+![](../../.gitbook/assets/key_config.png)
+
+* If you have any special keys on your keyboard such as AltGr etc. the choose the layout and continue. If you dont have any such special keys just hit enter and continue
+
+![](../../.gitbook/assets/alt_gr.png)
+
+* Again you might get some additional keys options. Choose if you wish to modify one or just press enter to continue with default layout
+
+![](../../.gitbook/assets/compose_key.png)
+
+* After this post-installation process will start i.e. setting up the essential packages. You will need to wait until this finishes.
 * If the post-installation setup successfully executed, you will see a **blue screen** asking for a _username._ You can choose any username unless that's a reserved keyword like _admin, root etc._ \(your name works fine\). Press **Enter** to proceed.
 
 {% hint style="info" %}
