@@ -2,7 +2,7 @@
 description: >-
   Modded OS are version of normal distros optimized, beautified and made super
   stable by our experienced developers. These include Ubuntu, Debian, Manjaro
-  for now. We carefully choose what goes into the
+  for now. We carefully choose what goes here.
 ---
 
 # Modded OS
