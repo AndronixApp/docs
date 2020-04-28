@@ -1,5 +1,5 @@
 ---
-description: This tutorial will guide you through the installation of Modded Ubuntu XFCE
+description: This tutorial will guide you through the installation of Modded Ubuntu XFCE.
 ---
 
 # Ubuntu XFCE
