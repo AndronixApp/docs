@@ -10,11 +10,6 @@ Debian is the most stable and easy-to-use Linux system and while being combined 
 
 * You need to login into Andronix either with your Google account or email \(register if you already have an account\). Worried about your privacy? Read more [here](https://andronix.app/privacy-policy/).
 * After logging in, click on the Install button of your favourite distro.
-
-{% hint style="info" %}
-**Confused** about which distribution to choose? here is a guide to help you out - _Modded OS Guide_
-{% endhint %}
-
 * If you haven't already purchased the distro, the app will prompt you to buy it first. You can proceed to the next step, if you already own the distro you want to install, else you can proceed to buy it.
 
 {% hint style="info" %}
