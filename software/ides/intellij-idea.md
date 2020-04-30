@@ -24,6 +24,36 @@ tar -xzf ideaIU-2xxx.x.x.tar.gz -C ~/Desktop/
 ```
 
 * The tar should now be unzipped in `Desktop/ideaIU-2xxx.x.x`, where 'x' stands for the year and version number.
+* Now choose the command from below and run it inside Linux terminal
+
+For Debian/Ubuntu/Kali:
+
+```text
+sudo apt install openjdk-11-jdk -y
+```
+
+For Arch/Manjaro
+
+```text
+sudo pacman -S jdk-openjdk
+```
+
+For Void Linux:
+
+```text
+xbps-install -S openjdk
+```
+
+For Alpine:
+
+```text
+apk --no-cache add openjdk11 --repository=http://dl-cdn.alpinelinux.org/alpine/edge/community
+```
+
+For Fedora:
+
+**Fedora is not recommended for use of Jetbrains IDE**
+
 * We can now proceed to run Idea, navigate to **Desktop/ideaIU-2xxx.x.x/bin** and execute the `idea.sh` with the following command
 
 ```text
