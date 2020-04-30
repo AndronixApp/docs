@@ -10,6 +10,10 @@ description: "This does everything! \U0001F605❤"
 
 Here are the steps needed to install IntelliJ Idea on your Andronix instance
 
+{% hint style="warning" %}
+This assumes that you have the **SDK for your language already installed** for the distro you are using.
+{% endhint %}
+
 ### APT
 
 * Download the latest tar.gz file from JetBrains official [download page](https://www.jetbrains.com/idea/download/#section=linux). 
