@@ -10,6 +10,10 @@ description: "Where the web lives...\U0001F30D"
 If you are having any **armv7 based device** browsers might fail to work due to unknow reasons. We can't help with armv7 devices since we don't have any armv7 devices as its older architecture and is no more found in modern smartphones.
 {% endhint %}
 
+{% hint style="danger" %}
+## All the commands should be executed after starting Linux
+{% endhint %}
+
 ## Firefox
 
 ### Ubuntu / Ubuntu 19 / Debian / Kali Linux 
@@ -44,9 +48,9 @@ Sadly Alpine does not provide Firefox support for ARM devices as or now.
 
 ### Ubuntu / Ubuntu 19 / Debian / Kali Linux
 
-{% hint style="success" %}
-Chromium comes pre-installed on both Ubuntu and Ubuntu 19
-{% endhint %}
+```text
+wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/ubchromiumfix.sh && bash ubchromiumfix.sh
+```
 
 ### Arch / Manjaro 
 
