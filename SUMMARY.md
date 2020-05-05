@@ -34,6 +34,10 @@
 * [VNC Basics 📱](vnc/vnc-basics.md)
 * [SSH Basics 👩‍💻](vnc/ssh-basics.md)
 
+## XSDL
+
+* [XSDL Basics](xsdl/xsdl-basics.md)
+
 ## Hardware
 
 * [Internal Storage 📂](hardware/internal-storage.md)
