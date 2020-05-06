@@ -10,7 +10,7 @@ Many users out there are looking for a viable resource to use Linux system on th
 
 On this page you can find the summary of what AndroNix is not capable of doing with the reasons. So here is the list:
 
-* AndroNix is not capable of running **STEAM 🎮** or any PC games on any of its Linux systems. The main reason for this is because Steam is only made for Intel/AMD based CPU's and not mobile based CPU's i.e. aarch64, armv8, arm64, arm, armv7, arm32 etc.
+* AndroNix is not capable of running **STEAM 🎮,** any PC games or emulate architecure using Wine/PlayonLinux on any of its Linux systems. The main reason for this is because Steam is only made for Intel/AMD based CPU's and not mobile based CPU's i.e. aarch64, armv8, arm64, arm, armv7, arm32 etc.
 
 
 
@@ -39,4 +39,8 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 * **SNAP/Docker** packages cannot be installed on any Linux environmnet. It is mainly due to two reasons. Primary being that both require kenel and bus modeules which are unavailable in PRoot environment and second being that both are mainly focused on Intel/AMD based architectures and not for arm architecture.
+
+
+
+* You can't use any serivce such as VPN or anything which changes the properties of network cause the network used within Linux container is managed by Android and not Linux itseld and hence it does not have access to modify any property of the network.
 
