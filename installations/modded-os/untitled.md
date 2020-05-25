@@ -34,7 +34,7 @@ If the **download is slow** for you, please try to download using a **VPN** in t
 * You now need to start the distro with the following command
 
 ```text
-./start-andronixos.sh
+./start-andronix.sh
 ```
 
 ![](../../.gitbook/assets/geo_area.png)
