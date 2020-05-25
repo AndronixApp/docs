@@ -27,49 +27,49 @@ termux-setup-storage
 ### Ubuntu 19
 
 ```text
-cp /sdcard/Download/ubuntu19.tar.gz && cd ~ && tar xf ubuntu19.tar.gz && rm -rf ubuntu19.tar.gz
+cp /sdcard/Download/ubuntu19.tar.gz . && tar xf ubuntu19.tar.gz && rm -rf ubuntu19.tar.gz
 ```
 
 ### Ubuntu 18
 
 ```text
-cp /sdcard/Download/ubuntu.tar.gz && cd ~ && tar xf ubuntu.tar.gz && rm -rf ubuntu.tar.gz
+cp /sdcard/Download/ubuntu.tar.gz . && tar xf ubuntu.tar.gz && rm -rf ubuntu.tar.gz
 ```
 
 ### Kali Security OS
 
 ```text
-cp /sdcard/Download/kali.tar.gz && cd ~ && tar xf kali.tar.gz && rm -rf kali.tar.gz
+cp /sdcard/Download/kali.tar.gz . && tar xf kali.tar.gz && rm -rf kali.tar.gz
 ```
 
 ### Debian
 
 ```text
-cp /sdcard/Download/debian.tar.gz && cd ~ && tar xf debian.tar.gz && rm -rf debian.tar.gz
+cp /sdcard/Download/debian.tar.gz . && tar xf debian.tar.gz && rm -rf debian.tar.gz
 ```
 
 ### Fedora
 
 ```text
-cp /sdcard/Download/fedora.tar.gz && cd ~ && tar xf fedora.tar.gz && rm -rf fedora.tar.gz
+cp /sdcard/Download/fedora.tar.gz . && tar xf fedora.tar.gz && rm -rf fedora.tar.gz
 ```
 
 ### Ubuntu 19
 
 ```text
-cp /sdcard/Download/void.tar.gz && cd ~ && tar xf void.tar.gz && rm -rf void.tar.gz
+cp /sdcard/Download/void.tar.gz . && tar xf void.tar.gz && rm -rf void.tar.gz
 ```
 
 ### Alpine
 
 ```text
-cp /sdcard/Download/alpine.tar.gz && cd ~ && tar xf alpine.tar.gz && rm -rf alpine.tar.gz
+cp /sdcard/Download/alpine.tar.gz . && tar xf alpine.tar.gz && rm -rf alpine.tar.gz
 ```
 
 ### Void
 
 ```text
-cp /sdcard/Download/void.tar.gz && cd ~ && tar xf void.tar.gz && rm -rf void.tar.gz
+cp /sdcard/Download/void.tar.gz . && tar xf void.tar.gz && rm -rf void.tar.gz
 ```
 
 * Once the process is complete you are good to start the Linux system.
