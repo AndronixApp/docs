@@ -42,5 +42,5 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-* You can't use any serivce such as VPN or anything which changes the properties of network cause the network used within Linux container is managed by Android and not Linux itseld and hence it does not have access to modify any property of the network.
+* You can't use any serivce such as VPN or anything which changes the properties of network cause the network used within Linux container is managed by Android and not Linux itself and hence it does not have access to modify any property of the network.
 
