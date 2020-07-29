@@ -89,7 +89,7 @@ pkg update
 * Type the following command to start the distro and press enter.
 
 ```text
-./start-ubuntu.sh
+./start-ubuntu19.sh
 ```
 
 * Now if you see `root@localhost` in Termux then you have successfully started Ubuntu.
