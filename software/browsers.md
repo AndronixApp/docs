@@ -52,6 +52,11 @@ Sadly Alpine does not provide Firefox support for ARM devices as or now.
 wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/ubchromiumfix.sh && bash ubchromiumfix.sh
 ```
 
+If the Chromium does not launch from Application Menu then try the following command inside VNC terminal:   
+1- `chromium --no-sandbox`
+
+2- `chromium-browser --no-sandbox` 
+
 ### Arch / Manjaro 
 
 ```text
