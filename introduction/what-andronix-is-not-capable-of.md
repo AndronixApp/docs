@@ -38,7 +38,7 @@ On this page you can find the summary of what AndroNix is not capable of doing w
 
 
 
-* **SNAP/Docker** packages cannot be installed on any Linux environmnet. It is mainly due to two reasons. Primary being that both require kernel and bus modeules which are unavailable in PRoot environment and second being that both are mainly focused on Intel/AMD based architectures and not for arm architecture.
+* **SNAP/Docker/Flatpak** packages cannot be installed on any Linux environmnet. It is mainly due to two reasons. Primary being that both require kernel and bus modeules which are unavailable in PRoot environment and second being that both are mainly focused on Intel/AMD based architectures and not for arm architecture.
 
 
 
