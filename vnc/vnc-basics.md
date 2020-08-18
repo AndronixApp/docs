@@ -76,7 +76,50 @@ Once you are done with this open a new Termux session and type:
 ip a
 ```
 
-and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
+and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\). 
+
+### For people without access to another device to create a hotspot but still use vnc on other device
+
+And now, Say you don't have access to another device or phone which you can use as a hotspot, Well there is a fairly easy soltion to that, All we need to do is port forward the ```localhost:rfb port``` to the internet and then later you can connect to it
+
+Here is how you do it
+
+First, create an account on [ngrok.com](https://ngrok.com) and on the getting started page you can see different options for download.
+
+Copy the direct link to `Linux Arm` file and now open termux.
+
+Type `wget <link here>` and it will download ngrok to your device.
+
+Now, unzip it `unzip ngrok-stable-linux-arm.zip`
+
+now move it /usr/bin ```mv ngrok /usr/bin```
+
+After that, from ngrok's website you have your auth token along with the command written there, copy the whole command but remove `./` from it
+
+After executing the command it should say something like ```Added auth token to.........```
+
+Now start the vncserver using `vncserver-start` and type `vncserver -list`
+
+You should see the RFB Port of you VNCServer, We will be port forwarding it so remember that
+
+Port Forwarding using this command, ```ngrok tcp <port here>```
+                                       in our case it is 5901
+                                       so
+                                    ```ngrok tcp 5901```
+Now it should connect to ngrok servers and give you an address something like ```0.tcp.ngrok.ip:13002```
+
+Note: The numbers will be different in your case
+
+Now, goto your vnc viewer client on other device be it windows, android or any other
+
+And simply input that ip address which has ngrok given you and connect to it and then input the password you had set earlier
+
+**Troubleshooting:** **My ngrok is stuck on reconnecting/connecting or will not connect***
+             Sol:  Well just turn on your mobile hotspot on the phone which you are trying to connect to ngrok with, be sure to close your linux distro before you turn on ngrok again with wifi hotspot on.
+
+
+
+
 
 ### How to change resolution permanantly in Modded OS / Ubuntu 19
 
