@@ -23,7 +23,7 @@ The size mentioned above is not the size after installing Fedora but it's just t
 
 ![](../../.gitbook/assets/fedora.png)
 
-* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Fedora without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Fedora with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Fedora without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
