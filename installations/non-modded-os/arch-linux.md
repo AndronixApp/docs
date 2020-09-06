@@ -21,7 +21,7 @@ The size mentioned above is not the size after installing Arch Linux but it's ju
 * Open the[ Andronix App](https://andronix.app/) and click on the Arch card.
 * Click the **Install** button.
 
-![](../../.gitbook/assets/arch_install_sheet.png)
+![](../../.gitbook/assets/arch.png)
 
 * The first three options will install Arch Linux with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Arch without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
@@ -29,7 +29,7 @@ The size mentioned above is not the size after installing Arch Linux but it's ju
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
 
-![](../../.gitbook/assets/arch_inst.png)
+![](../../.gitbook/assets/arch_install_sheet.png)
 
 * Use the command below to update your termux packages so that you're running the updated versions of the required packages.
 
