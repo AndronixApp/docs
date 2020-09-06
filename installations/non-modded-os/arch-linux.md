@@ -23,7 +23,8 @@ The size mentioned above is not the size after installing Arch Linux but it's ju
 
 ![](../../.gitbook/assets/arch.png)
 
-* The first three options will install Arch Linux with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Arch without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first two options will install Arch Linux with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The **Non-DE** variant installs Arch without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_. The last three options will install Arch with the mentioned [Windows Manager](https://en.m.wikipedia.org/wiki/Window_manager).
+
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
