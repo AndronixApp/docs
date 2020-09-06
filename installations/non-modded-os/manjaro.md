@@ -27,7 +27,7 @@ The size mentioned above is not the size after installing Manjaro but it's just 
 
 ![](../../.gitbook/assets/manjaro.png)
 
-* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Manjaro without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Manjaro with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Manjaro without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
