@@ -23,7 +23,7 @@ The size mentioned above is not the size after installing Debian but it's just t
 
 ![](../../.gitbook/assets/deb.png)
 
-* The first three options will install Debian with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Debian without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Debian with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The **Non-DE** variant installs Debian without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.The first three options will install Debian with the mentioned [Window Manager](https://en.wikipedia.org/wiki/Window_manager). 
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
