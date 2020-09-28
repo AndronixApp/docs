@@ -1,5 +1,5 @@
 ---
-description: This tutorial will guide you through the installation of Ubuntu 20
+description: This tutorial will guide you through the installation of Ubuntu 19
 ---
 
 # Ubuntu
@@ -89,7 +89,7 @@ pkg update
 * Type the following command to start the distro and press enter.
 
 ```text
-./start-ubuntu19.sh
+./start-ubuntu20.sh
 ```
 
 * Now if you see `root@localhost` in Termux then you have successfully started Ubuntu.
