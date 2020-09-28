@@ -1,5 +1,5 @@
 ---
-description: This tutorial will guide you through the installation of Ubuntu 19
+description: This tutorial will guide you through the installation of Ubuntu 20
 ---
 
 # Ubuntu
@@ -29,7 +29,7 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 
 ![](../../.gitbook/assets/ubuntu_selection.png)
 
-* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 18 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Ubuntu 18 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 18 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
@@ -57,18 +57,18 @@ pkg update
 
 
 
-### Ubuntu 19
+### Ubuntu 20
 
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
 * Click the **Install** button.
 
 ![](../../.gitbook/assets/ubuntu.png)
 
-* Select the version you want to install, namely 18.04
+* Select the version you want to install, namely 20.04
 
 ![](../../.gitbook/assets/ubuntu_selection.png)
 
-* The first three options will install Ubuntu 19 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 19 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
+* The first three options will install Ubuntu 20 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The last **Non-DE** variant installs Ubuntu 20 without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_.
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
