@@ -1,5 +1,5 @@
 ---
-description: This tutorial will guide you through the installation of Ubuntu 19
+description: This tutorial will guide you through the installation of Ubuntu 20
 ---
 
 # Ubuntu
