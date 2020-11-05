@@ -16,7 +16,7 @@ If you are having any **armv7 based device** browsers might fail to work due to 
 
 ## Firefox
 
-### Ubuntu / Ubuntu 19 / Debian / Kali Linux 
+### Ubuntu / Ubuntu 20 / Debian / Kali Linux 
 
 ```text
 apt install firefox-esr -y
