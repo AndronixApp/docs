@@ -29,7 +29,6 @@ The size mentioned above is not the size after installing Manjaro but it's just 
 
 * The first three options will install Manjaro with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The **Non-DE** variant installs Manjaro without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_. The last three options will install Manjaro with the mentioned [Windows Manager](https://en.m.wikipedia.org/wiki/Window_manager).
 
-
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
 {% endhint %}
@@ -46,7 +45,7 @@ pkg update
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes. 
-* Type the following command to start the distro ****and press enter.
+* Type the following command to start the distro _\*\*_and press enter.
 
 ```text
 ./start-manjaro.sh

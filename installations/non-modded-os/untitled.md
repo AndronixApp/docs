@@ -41,7 +41,7 @@ pkg update
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes. 
-* Type the following command to start the distro ****and press enter.
+* Type the following command to start the distro _\*\*_and press enter.
 
 ```text
 ./start-debian.sh
@@ -54,6 +54,4 @@ pkg update
 Exiting and stopping the VNC server gracefully is important to avoid any ghost process to be running and rendering the server almost useless. Read about how to exit the VNC server in this article.
 
 {% page-ref page="../../vnc/vnc-basics.md" %}
-
-
 

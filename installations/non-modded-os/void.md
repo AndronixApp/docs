@@ -39,7 +39,7 @@ pkg update
 
 * Tap & hold anywhere on the screen and press **Paste**.
 * Press **Enter** and wait till the installation completes. 
-* Type the following command to start the distro ****and press enter.
+* Type the following command to start the distro _\*\*_and press enter.
 
 ```text
 ./start-void.sh

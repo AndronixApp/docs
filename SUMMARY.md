@@ -21,7 +21,7 @@
 * [Modded OS](installations/modded-os/README.md)
   * [Ubuntu KDE](installations/modded-os/ubuntu-kde.md)
   * [Debian XFCE](installations/modded-os/debian-xfce.md)
-  * [Ubuntu XFCE](installations/modded-os/untitled.md)
+  * [Ubuntu XFCE](installations/modded-os/ubuntu-xfce.md)
   * [Manjaro XFCE](installations/modded-os/manjaro-xfce.md)
 * [Offline Installation](installations/offline-installtion.md)
 

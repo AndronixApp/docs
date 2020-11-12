@@ -16,13 +16,13 @@ If you are having any **armv7 based device** browsers might fail to work due to 
 
 ## Firefox
 
-### Ubuntu / Ubuntu 20 / Debian / Kali Linux 
+### Ubuntu / Ubuntu 20 / Debian / Kali Linux
 
 ```text
 apt install firefox-esr -y
 ```
 
-### Arch / Manjaro 
+### Arch / Manjaro
 
 ```text
 pacman -S firefox --noconfirm
@@ -40,8 +40,6 @@ xbps-install -S firefox
 Sadly Alpine does not provide Firefox support for ARM devices as or now.
 {% endhint %}
 
-
-
 ![](../.gitbook/assets/chrome_banner.png)
 
 ## Chromium
@@ -52,12 +50,12 @@ Sadly Alpine does not provide Firefox support for ARM devices as or now.
 wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Uninstall/ubchromiumfix.sh && bash ubchromiumfix.sh
 ```
 
-If the Chromium does not launch from Application Menu then try the following command inside VNC terminal:   
+If the Chromium does not launch from Application Menu then try the following command inside VNC terminal:  
 1- `chromium --no-sandbox`
 
-2- `chromium-browser --no-sandbox` 
+2- `chromium-browser --no-sandbox`
 
-### Arch / Manjaro 
+### Arch / Manjaro
 
 ```text
 pacman -S chromium --noconfirm

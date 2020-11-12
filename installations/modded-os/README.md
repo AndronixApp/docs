@@ -43,8 +43,6 @@ Here's how you can install them
 
 {% page-ref page="ubuntu-kde.md" %}
 
-{% page-ref page="untitled.md" %}
-
 {% page-ref page="debian-xfce.md" %}
 
 {% page-ref page="manjaro-xfce.md" %}

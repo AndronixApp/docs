@@ -1,5 +1,7 @@
 ---
-description: This tutorial will guide you through the installation of Ubuntu 18 and Ubuntu 20.
+description: >-
+  This tutorial will guide you through the installation of Ubuntu 18 and Ubuntu
+  20.
 ---
 
 # Ubuntu
@@ -13,7 +15,7 @@ Ubuntu provided by Andronix is open source including all the scripts needed for 
 **Download size** - 45 MB
 
 {% hint style="warning" %}
- above is not the size after installing Ubuntu but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
+above is not the size after installing Ubuntu but it's just the tar size that Andronix downloads. **This doesn't include a desktop environment for the GUI**.
 {% endhint %}
 
 ## How to Install?
@@ -55,8 +57,6 @@ pkg update
 
 * Now if you see `root@localhost` in Termux then you have successfully started Ubuntu.
 
-
-
 ### Ubuntu 20
 
 * Open the[ Andronix App](https://andronix.app/) and click on the Ubuntu card.
@@ -69,7 +69,6 @@ pkg update
 ![](../../.gitbook/assets/ubuntu_selection.png)
 
 * The first three options will install Ubuntu 20 with the mentioned [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment). The **Non-DE** variant installs Ubuntu without any Desktop Environment and is recommended for using the distro only with a _Command Line Interface_. The last three options will install Ubuntu 20 with the mentioned [Windows manager](https://en.wikipedia.org/wiki/Window_manager).
-
 
 {% hint style="success" %}
 We recommend to choose **XFCE variant** as it is the most stable, smooth, advanced and customizable Desktop Environment present at the moment
