@@ -73,3 +73,9 @@ Sadly chromium is not available for Void Linux.
 apk add chromium
 ```
 
+### Fedora
+
+```text
+dnf install chromium 
+```
+
