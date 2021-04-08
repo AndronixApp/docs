@@ -45,13 +45,13 @@ apt install openssh-server nano -y
 ### Manjaro
 
 ```text
-pacman -S openssh nano --noconfim
+pacman -S openssh nano --noconfirm
 ```
 
 ### Arch
 
 ```text
-pacman -S openssh nano --noconfim
+pacman -S openssh nano --noconfirm
 ```
 
 ### Fedora
