@@ -76,7 +76,7 @@ Once you are done with this open a new Termux session and type:
 ip a
 ```
 
-and copy then **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
+and then copy the **WLAN** IP address \(eg. 192.168.xx.xx\). Now use this IP Address on the other device with the port number as 1 \(eg. 192.168.xx.xx:1\).  
 
 ### How to change resolution permanantly in Modded OS / Ubuntu 19
 
